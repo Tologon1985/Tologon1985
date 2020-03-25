@@ -1,0 +1,62 @@
+
+body {
+	background: #CFFFCD;
+
+}
+table {
+	border-collapse :collapse;
+	margin: 80px auto;
+	padding: 20px;
+
+}
+td, th {
+	border: 1px solid black;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	font-size: 25px;
+
+}
+
+.pink {
+	background: #F48081;
+	border-left: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+.orange {
+	background: #FAC38A;
+}
+.yellow {
+	background: #F6FF41;
+}
+.green {
+	background: #6CA76A
+}
+.blue {
+	background: #A9F3F3
+}
+.darkblue {
+	background: #807BE9;
+
+}
+
+.siren {
+		
+background: #C480FC;
+
+
+}
+
+.violet {
+	background: #F283F2;
+}
+
+.grey	{
+	background:#E0E0E0;
+}
+
+.zero{
+	opacity: 0;
+	border:none;
+}
