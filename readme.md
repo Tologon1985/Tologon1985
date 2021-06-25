@@ -6,7 +6,6 @@ I love sports, especially triathlon. In October 2018 I did the full Ironman Barc
 **Things You Should know about Me!**
 
 - 👨🏻‍💻 **I'm currently working on freelance.** 
-- ✍🏻 **I often write in my leisure time.**
 - 📧 **Reach me out at tnanaev@gmail.com.**
 - 🤝🏻 **Always open for collaboration.**
 
